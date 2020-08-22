@@ -1,1 +1,1 @@
-Complete neural network using Numpy for MNIST dataset
+Build NN model for MNIST dataset
